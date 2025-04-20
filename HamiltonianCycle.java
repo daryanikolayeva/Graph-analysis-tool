@@ -1,10 +1,5 @@
 
-/*
- * Comp 2140 A5
- * A02:Lauren Himbeault
- * Darya Nikolayeva: 7974499
- * Question 4:Hamiltonian Cycle
- */
+
 import java.util.ArrayList;
 
 public class HamiltonianCycle {
