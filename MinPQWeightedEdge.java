@@ -1,9 +1,4 @@
-/*
- * Comp 2140 A5
- * A02:Lauren Himbeault
- * Darya Nikolayeva: 7974499
- * Question 1
- */
+
 public class MinPQWeightedEdge {
     private WeightedEdge[] edges;
     private int size;
