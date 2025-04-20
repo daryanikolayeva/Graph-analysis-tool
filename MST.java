@@ -1,10 +1,5 @@
 
-/*
-* Comp 2140 A5
-* A02:Lauren Himbeault
-* Darya Nikolayeva: 7974499
-* Question 3: MST
-*/
+
 public class MST {
     private int weight;
     private int[][] matrix;
