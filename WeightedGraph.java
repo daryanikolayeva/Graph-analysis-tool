@@ -1,10 +1,5 @@
 
-/*
-* Comp 2140 A5
-* A02:Lauren Himbeault
-* Darya Nikolayeva: 7974499
-* Question 1: WeightedEdge class
-*/
+
 import java.util.Scanner;
 import java.io.File;
 import java.io.FileNotFoundException;
